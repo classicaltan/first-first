@@ -2,6 +2,8 @@ This is my GIT
 Look how new it is
 That's the end of my poem
 and this is my update
+commiting some seconds
+these are new branches
 i'm just copying a guy on YouTube
 I've made a bunch of commits
 This is novel, not a novel
